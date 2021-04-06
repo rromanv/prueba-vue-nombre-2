@@ -5,5 +5,5 @@
 <script setup>
 import { ref } from 'vue'
 
-const nombre = ref('Rodolfo Roman')
+const nombre = ref('Rodolfo')
 </script>
